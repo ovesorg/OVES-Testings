@@ -15,3 +15,4 @@ It simply accounts creation of users for tracking financial records, giving them
 >e.g. Telecome service provides the SIM card to the end user. Your account gets created in their system Whenever you purchase the SIM Card. Therefore, in the future, if you need any service like Recharge, Caller-tune, Data-Subscription, they will simply look into your account and will allocate to you after collecting the respective amount.
 
 based on the example, no any SIM Card has two users/owners. likewise, in our OVES&trade; Organization we can not have two users/customers for the same product. ultimately, we are creating one payAccount for one Product. We are creating payAccount for recharges, warranty services or any add-on services that we can introduce in the future.
+
